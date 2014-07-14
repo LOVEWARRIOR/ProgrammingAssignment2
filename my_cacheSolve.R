@@ -1,3 +1,5 @@
+#find the inverse if it exits
+
 cacheSolve <- function(x, matrix) {
         #inverse is the answer we what , the inverse of a particular matrix
         # x is the cache where the program stores a spectial vector

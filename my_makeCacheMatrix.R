@@ -1,3 +1,5 @@
+#make a special vector like makemean
+
 makeCacheMatrix <- function(origin_matrix = matrix()) {
         #As you see , I wrote a human readable program
         #inverse means an inverse of a matrix
